@@ -10,7 +10,9 @@ body{
     color: white;
     
 }
-
+input{
+  background-color: white;
+}
 #name, #email, #age {
     width: 50%;
     line-height: 3;
@@ -19,6 +21,7 @@ body{
 }
 #age {margin-left: 4.5%;}
 #dropdown {
+  background-color: white;
     width: 50%;
     margin-left: 5%;
     font-size: 1em;
@@ -29,12 +32,13 @@ body{
 }
 #textarea 
 {
-    width: 25%;
+   background-color: white;
+    width: 40%;
     line-height: 3;
 }
 #submit {
     background-color: yellowgreen;
-    width: 10%;
+    width: 20%;
     line-height: 3
 }
 
